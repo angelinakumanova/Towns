@@ -8,4 +8,5 @@ Code for the Git and GitHub Exercise
 • **Mariya** takes the role *"Shuffler"*
 <br>
 
-•	**(TBA)** takes the role *"Styler"*
+•	**Mehmed** takes the role *"Styler"*
+
